@@ -1,0 +1,32 @@
+G:\Kalkulator-master\Kalkulator-master\Kalkulator\bin\Debug\Kalkulator.exe.config
+G:\Kalkulator-master\Kalkulator-master\Kalkulator\bin\Debug\Kalkulator.exe
+G:\Kalkulator-master\Kalkulator-master\Kalkulator\bin\Debug\Kalkulator.pdb
+G:\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+G:\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+G:\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\MainWindow.g.cs
+G:\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\App.g.cs
+G:\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+G:\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+G:\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\MainWindow.baml
+G:\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.g.resources
+G:\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+G:\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+G:\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+G:\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.exe
+G:\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Kacper Ch\Downloads\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\Kacper Ch\Downloads\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kacper Ch\Downloads\Kalkulator-master\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\Kacper Ch\Downloads\Kalkulator-master\Kalkulator\obj\Debug\App.g.cs
+C:\Users\Kacper Ch\Downloads\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\Kacper Ch\Downloads\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\Kacper Ch\Downloads\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Kacper Ch\Downloads\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Kacper Ch\Downloads\Kalkulator-master\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Kacper Ch\Downloads\Kalkulator-master\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Kacper Ch\Downloads\Kalkulator-master\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Kacper Ch\Downloads\Kalkulator-master\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\Kacper Ch\Downloads\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\Kacper Ch\Downloads\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Kacper Ch\Downloads\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\Kacper Ch\Downloads\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
